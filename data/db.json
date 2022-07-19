@@ -18,24 +18,6 @@
   ],
   "cards": [
     {
-      "id": 1,
-      "front": "Differentiate between Real DOM and Virtual DOM. ",
-      "back": "Virtual DOM updates are faster but do not directly update the HTML",
-      "deckId": 1
-    },
-    {
-      "id": 2,
-      "front": "How do you modify the state of a different React",
-      "back": "Not at all! State is visible to the component only.",
-      "deckId": 1
-    },
-    {
-      "id": 3,
-      "front": "How do you pass data 'down' to a React child compon",
-      "back": "As properties or props",
-      "deckId": 1
-    },
-    {
       "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
       "back": "All paths. A route with no path matches all URL's",
       "deckId": 2,
@@ -52,12 +34,6 @@
       "back": "another card back",
       "deckId": 2,
       "id": 8
-    },
-    {
-      "front": "ffwfwwqf",
-      "back": "fwqfwqwfqf",
-      "deckId": 1,
-      "id": 9
     },
     {
       "front": "testing form component",
