@@ -46,6 +46,12 @@
       "back": "card back",
       "deckId": 3,
       "id": 11
+    },
+    {
+      "front": "info here",
+      "back": "info there",
+      "deckId": 1,
+      "id": 12
     }
   ]
 }
