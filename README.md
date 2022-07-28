@@ -7,4 +7,4 @@ Users can also create, read, update, delete the cars inside the decks. They can 
  ### Images ###
 ![](images/flashcardHomePage.jpg)
 
-![](images/flashcardCreate.jpg)
+![](images/flashcard_create.jpg)
